@@ -1,0 +1,41 @@
+header{
+    background:lightgrey;
+    height:13vh;
+    width:100%;
+    padding:15px
+}
+#blubox{
+    background:skyblue;
+    height:80px;
+    width:80px;
+    float: left;
+}
+main{
+    height:30vh;
+    width:100%;
+    padding:35px 0;
+    font-size: 1.5em;
+}
+.txtbox{
+    margin:50px;
+}
+#lgtblu{
+    height:12vh;
+    width:100%;
+    background: skyblue
+}
+#grnblu{
+    height:12vh;
+    width:100%;
+    background: rgba(0, 255, 242, 0.822);
+}
+#brtgrn{
+    height:12vh;
+    width:100%;
+    background: yellowgreen;
+}
+#ylwgrn{
+    height:12vh;
+    width:100%;
+    background: yellow;
+}

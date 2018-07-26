@@ -1,0 +1,24 @@
+body{
+    background:rgba(211, 211, 211, 0.562); 
+}
+header{
+    height:10vh;
+    width:100%;
+    background: grey;
+}
+.center{
+    width: 70%;
+    height: 80vh;
+    background:white;
+    margin:0 auto;
+    
+}
+
+footer{
+    /* position: absolute; */
+    /* bottom:0;      */
+   width:70vw;
+   height:10vh;
+   background:black;
+   margin:0 auto;
+}
